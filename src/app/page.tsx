@@ -72,17 +72,17 @@ export default function LandingPage() {
               name: "Sarah Chen",              handle: "@sarahchen",              testimonial:
                 "DimaAnalHero transformed how we analyze market data. The insights are incredibly fast and actionable.",              rating: 5,
               imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wUQvOmvybi7OsenpqBLyZR6m5/professional-headshot-of-a-business-exec-1773680987667-b6de6db6.png",              imageAlt: "Sarah Chen"},
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wUQvOmvybi7OsenpqBLyZR6m5/professional-headshot-of-a-business-exec-1773680987667-b6de6db6.png?_wi=1",              imageAlt: "Sarah Chen"},
             {
               name: "Michael Roberts",              handle: "@mroberts_analytics",              testimonial:
                 "The real-time dashboard gives us competitive advantage. Best investment we made this year.",              rating: 5,
               imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wUQvOmvybi7OsenpqBLyZR6m5/professional-headshot-of-a-tech-entrepre-1773680987617-f53f1db1.png",              imageAlt: "Michael Roberts"},
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wUQvOmvybi7OsenpqBLyZR6m5/professional-headshot-of-a-tech-entrepre-1773680987617-f53f1db1.png?_wi=1",              imageAlt: "Michael Roberts"},
             {
               name: "Emily Watson",              handle: "@emily_watson",              testimonial:
                 "Integration was seamless. We started seeing ROI within weeks of deployment.",              rating: 5,
               imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wUQvOmvybi7OsenpqBLyZR6m5/professional-headshot-of-a-business-anal-1773680988152-9f714485.png",              imageAlt: "Emily Watson"},
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wUQvOmvybi7OsenpqBLyZR6m5/professional-headshot-of-a-business-anal-1773680988152-9f714485.png?_wi=1",              imageAlt: "Emily Watson"},
           ]}
           testimonialRotationInterval={5000}
           imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wUQvOmvybi7OsenpqBLyZR6m5/a-modern-sleek-analytics-dashboard-inter-1773680990470-33948a5d.png"
@@ -190,17 +190,17 @@ export default function LandingPage() {
             {
               id: "testi-1",              name: "David Kim",              handle: "CTO, TechCorp",              testimonial:
                 "DimaAnalHero reduced our analytics infrastructure costs by 60% while improving query performance by 10x. The ROI was immediate.",              imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wUQvOmvybi7OsenpqBLyZR6m5/professional-headshot-of-a-business-exec-1773680987667-b6de6db6.png",              imageAlt: "David Kim",              icon: Award,
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wUQvOmvybi7OsenpqBLyZR6m5/professional-headshot-of-a-business-exec-1773680987667-b6de6db6.png?_wi=2",              imageAlt: "David Kim",              icon: Award,
             },
             {
               id: "testi-2",              name: "Jessica Martinez",              handle: "VP Analytics, DataDriven Inc",              testimonial:
                 "The AI-powered insights have become core to our decision-making process. We've discovered opportunities we never knew existed.",              imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wUQvOmvybi7OsenpqBLyZR6m5/professional-headshot-of-a-tech-entrepre-1773680987617-f53f1db1.png",              imageAlt: "Jessica Martinez",              icon: ThumbsUp,
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wUQvOmvybi7OsenpqBLyZR6m5/professional-headshot-of-a-tech-entrepre-1773680987617-f53f1db1.png?_wi=2",              imageAlt: "Jessica Martinez",              icon: ThumbsUp,
             },
             {
               id: "testi-3",              name: "Alex Thompson",              handle: "Analytics Lead, CloudFirst",              testimonial:
                 "The ease of integration with our existing stack was impressive. Our team was productive within days, not weeks.",              imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wUQvOmvybi7OsenpqBLyZR6m5/professional-headshot-of-a-business-anal-1773680988152-9f714485.png",              imageAlt: "Alex Thompson",              icon: CheckCircle,
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wUQvOmvybi7OsenpqBLyZR6m5/professional-headshot-of-a-business-anal-1773680988152-9f714485.png?_wi=2",              imageAlt: "Alex Thompson",              icon: CheckCircle,
             },
             {
               id: "testi-4",              name: "Maria Santos",              handle: "Director of BI, GlobalEnterprise",              testimonial:
